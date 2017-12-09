@@ -1,3 +1,3 @@
 ## learnGitOperate
 
-this is my first git project!!!
+this is hello wo my first git project!!!
